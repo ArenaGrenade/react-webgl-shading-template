@@ -147,7 +147,7 @@ A lot of `StackOverflow` answers helped me put together this template. If I go m
 
 <!--License-->
 [license-shield]: https://img.shields.io/github/license/ArenaGrenade/react-webgl-shading-template.svg?style=for-the-badge
-[license-url]: https://github.com/ArenaGrenade/react-webgl-shading-template/blob/master/LICENSE.txt
+[license-url]: https://github.com/ArenaGrenade/react-webgl-shading-template/blob/master/LICENSE
 
 <!--Linkedin-->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
